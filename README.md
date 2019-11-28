@@ -12,7 +12,7 @@ Before trying to do this, make sure you understand the concept of **JavaScript**
 **There are a few things you need to do before you can actually run a Discord Bot:**
 1. Make sure you have the **LTS** version of [Node.JS](https://nodejs.org/en/download) along with the [PATH](#installing-the-node-path) downloaded.
 2. [Create Yourself A Bot](#creating-your-discord-bot) at the Developer Portal.
-3. Download the ZIP file and save it somewhere accessible.
+3. Download the [ZIP](https://github.com/Brilliant-0001/discord.js/blob/master/discord-js-bot.zip) file and save it somewhere accessible.
 
 If you have already done all this, then scroll down [here](#configuring-your-discord-bot).
 
